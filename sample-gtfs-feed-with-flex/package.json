@@ -1,0 +1,16 @@
+{
+  "name": "sample-gtfs-feed-with-flex",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "generate-herrenberg-gtfs-flex": "github:derhuerst/generate-herrenberg-gtfs-flex",
+    "sample-gtfs-feed": "^0.10.3"
+  }
+}

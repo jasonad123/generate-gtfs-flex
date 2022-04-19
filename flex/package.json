@@ -1,0 +1,16 @@
+{
+  "name": "flex",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "generate-herrenberg-gtfs-flex": "github:derhuerst/generate-herrenberg-gtfs-flex"
+  },
+  "devDependencies": {},
+  "description": ""
+}
